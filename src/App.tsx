@@ -233,9 +233,9 @@ export default function App() {
               {/* Depoimentos em Imagem */}
               <div className="flex flex-col items-center gap-12">
                 {[
-                  "https://i.imgur.com/g8ILeWx.jpeg",
-                  "https://i.imgur.com/hLx9Ye0.jpeg",
-                  "https://i.imgur.com/LXnvJq1.jpeg"
+                  "https://i.imgur.com/RSrV08x.jpeg",
+                  "https://i.imgur.com/py8OHL8.jpeg",
+                  "https://i.imgur.com/G0MbEG3.jpeg"
                 ].map((src, index) => (
                   <motion.div
                     key={index}
